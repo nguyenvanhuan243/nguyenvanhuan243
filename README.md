@@ -1,6 +1,6 @@
 👋 Hi, I’m @HuanCapital, Focus on FinTech!
 
-[![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
+[![Wechaty](https://logowik.com/content/uploads/images/bitcoin-cash9769.logowik.com.webp)](https://wechaty.js.org)
 
 <div align="center">
 
