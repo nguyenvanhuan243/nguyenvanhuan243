@@ -1,6 +1,6 @@
 👋 Hi, I’m @HuanCapital, Focus on FinTech!
 
-[![Wechaty](https://logowik.com/content/uploads/images/bitcoin-cash9769.logowik.com.webp)](https://wechaty.js.org)
+[![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
 
 <div align="center">
 
