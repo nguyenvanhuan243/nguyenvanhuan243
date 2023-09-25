@@ -150,10 +150,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
   <p>
     <a href="https://awesome-ruby.com"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
   </p>
-  <h3><a href="https://awesome-ruby.com">Awesome Ruby</a></h3>
-  <p>
-    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-  </p>
+  <h3><a href="https://awesome-ruby.com">Awesome Ruby - ALL IN ONE</a></h3>
 </div>
 
 A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
