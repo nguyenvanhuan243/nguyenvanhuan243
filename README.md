@@ -148,7 +148,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 
 <div align="center">
   <p>
-    <a href="https://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo_m.png"></a>
+    <a href="https://awesome-ruby.com"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
   </p>
   <h3><a href="https://awesome-ruby.com">Awesome Ruby</a></h3>
   <p>
