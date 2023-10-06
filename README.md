@@ -1,5 +1,5 @@
 👋 Hi, I’m @HuanCapital, Focus on FinTech!
-Coding, Trading Bitcoin, Forex, Stock and Finacial Games.
+Coding, Trading Bitcoin, Forex, Stock and Financial Games.
 
 [![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
 
