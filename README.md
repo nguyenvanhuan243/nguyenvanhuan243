@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    <a href="https://awesome-ruby.com">
+    <a href="https://bscexchange.finance/">
       👋 Hi, I’m @HuanCapital, Focus on FinTech, Trading Bitcoin, Forex, Stock and Financial Games.
     </a>
   </h3>
