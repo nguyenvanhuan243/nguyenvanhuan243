@@ -9,7 +9,7 @@
 [![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
 
 <div align="center">
-  <h3><a href="https://awesome-ruby.com">AWESOME RUBY - ALL IN ONE</a></h3>
+  <h3><a target="_blank" href="https://awesome-ruby.com">AWESOME RUBY - ALL IN ONE</a></h3>
 </div>
 
 A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
