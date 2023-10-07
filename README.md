@@ -1,5 +1,10 @@
-👋 Hi, I’m @HuanCapital, Focus on FinTech!
-Coding, Trading Bitcoin, Forex, Stock and Financial Games.
+<div align="center">
+  <h3>
+    <a href="https://awesome-ruby.com">
+      👋 Hi, I’m @HuanCapital, Focus on FinTech, Trading Bitcoin, Forex, Stock and Financial Games.
+    </a>
+  </h3>
+</div>
 
 [![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
 
