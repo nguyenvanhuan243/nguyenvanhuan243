@@ -1,6 +1,8 @@
 👋 Hi, I’m @HuanCapital, Focus on FinTech!
 Coding, Trading Bitcoin, Forex, Stock and Financial Games.
 
+[![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
+
 <div align="center">
   <p>
     <a href="https://awesome-ruby.com"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
@@ -1400,8 +1402,6 @@ Online tools, services and APIs to simplify development.
 * [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 * [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
-
-[![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
 
 <div align="center">
 
