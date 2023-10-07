@@ -4,13 +4,16 @@ Coding, Trading Bitcoin, Forex, Stock and Financial Games.
 [![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
 
 <div align="center">
-  <p>
-    <a href="https://awesome-ruby.com"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
-  </p>
   <h3><a href="https://awesome-ruby.com">AWESOME RUBY - ALL IN ONE</a></h3>
 </div>
 
 A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
+
+<div align="center">
+  <p>
+    <a href="https://awesome-ruby.com"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
+  </p>
+</div>
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
 
