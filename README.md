@@ -1423,22 +1423,6 @@ Online tools, services and APIs to simplify development.
 
 </div>
 
-Huan is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only six lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc.](https://wechaty.js.org/docs/puppet-providers)
-
-Some numbers for the Wechaty project:
-
-- 200+ [Contributors](https://wechaty.js.org/contributors/)
-- 6,000+ [Open-source Dependents](https://github.com/wechaty/wechaty/network/dependents)
-- 9,000+ [Pull Requests & Issues](https://github.com/issues?q=user%3Awechaty)
-- 14,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) [📈](https://star-history.com/#wechaty/wechaty&Date)
-- 100,000+ [Docker Pulls](https://hub.docker.com/r/wechaty/wechaty)
-- 1,200,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
-
-Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ahuan) and [Issues](https://github.com/issues?q=is%3Aissue+author%3Ahuan)) to GitHub open-source projects:
-
-- **♏️** _means he is the creator or maintainer of the project_
-- **©️** _means he has contributed to the project_
-
 ## Chatbot Ecosystem
 
 - ♏️ <https://github.com/wechaty/wechaty> [![Wechaty](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/) Conversational RPA SDK for Chatbot Makers
