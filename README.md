@@ -44,8 +44,10 @@
 
 
 <div>
-  <h3><a target="_blank" href="https://github.com/nguyenvanhuan243/awesome-ruby">AWESOME RUBY - ALL IN ONE</a></h3>
+  <h3><a target="_blank" href="https://github.com/nguyenvanhuan243/awesom-ruby">AWESOME RUBY - ALL IN ONE</a></h3>
 </div>
+
+https://awesome-ruby.com/
 
 <div align="center">
   <p>
