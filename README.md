@@ -43,7 +43,7 @@
 </div>
 
 
-<div align="center">
+<div>
   <h3><a target="_blank" href="https://awesome-ruby.com">AWESOME RUBY - ALL IN ONE</a></h3>
 </div>
 
