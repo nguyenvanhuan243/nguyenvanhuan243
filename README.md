@@ -44,14 +44,12 @@
 
 
 <div>
-  <h3><a target="_blank" href="https://awesome-ruby.com">AWESOME RUBY - ALL IN ONE</a></h3>
+  <h3><a target="_blank" href="https://github.com/nguyenvanhuan243/awesome-ruby">AWESOME RUBY - ALL IN ONE</a></h3>
 </div>
-
-A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
 <div align="center">
   <p>
-    <a href="https://github.com/nguyenvanhuan243/awesom-ruby/"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
+    <a href="https://github.com/nguyenvanhuan243/awesome-ruby"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
   </p>
 </div>
 
