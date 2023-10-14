@@ -39,7 +39,7 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img width="1000px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nguyenvanhuan243&show_icons=true" />
+  <img width="1000px" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvanhuan243&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
 
 
