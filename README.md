@@ -1,7 +1,7 @@
 <div align="center">
   <h3>
     <a href="https://bscexchange.finance/">
-      👋 Hi, I’m @HuanCapital, Focus on FinTech, Trading Bitcoin, Forex, Stock and Financial Games.
+      👋 Hi, I’m @HuanCapital, Dev at https://bscexchange.finance
     </a>
   </h3>
 </div>
