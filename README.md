@@ -5,7 +5,6 @@
     </a>
   </h3>
 </div>
-![image](https://github.com/nguyenvanhuan243/nguyenvanhuan243/assets/13021427/3700f7c5-4461-413d-a627-731300f43788)
 
 [![Wechaty](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bitcoin-lightning-accepted-here-vector-text-to-path.svg/2560px-Bitcoin-lightning-accepted-here-vector-text-to-path.svg.png)](https://wechaty.js.org)
 
