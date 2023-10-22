@@ -1,7 +1,7 @@
 <div align="center">
   <h3>
-    <a href="https://bscexchange.finance/">
-      👋 Hi, I’m @HuanCapital, Dev at https://bscexchange.finance
+    <a href="https://github.com/nguyenvanhuan243">
+      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails || ReactJS)
     </a>
   </h3>
 </div>
