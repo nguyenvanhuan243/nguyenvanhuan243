@@ -4,9 +4,9 @@
       👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails || ReactJS), Continuous Learning And Passion With Technology.
     </a>
   </h1>
-  <h1>
+  <h2>
     I usually work with Ruby and Javascript (ReactJS, Typescript,...)
-  </h1>
+  </h2>
 </div>
 
 [![Fullstack](https://www.ekascloud.com/public/uploads/img/news/img8d93b8870f1b00dea9c4dfa13593c586.png)](https://microservices.io)
