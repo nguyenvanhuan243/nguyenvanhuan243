@@ -1,7 +1,7 @@
 <div align="center">
   <h3>
     <a href="https://github.com/nguyenvanhuan243">
-      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails || ReactJS), Continuous Learning, Doing the Right Thing and Client Happy and Success!
+      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails || ReactJS), Continuous Learning And Passion With Technology.
     </a>
   </h3>
 </div>
