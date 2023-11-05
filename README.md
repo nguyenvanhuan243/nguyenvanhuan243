@@ -1,8 +1,11 @@
 <div align="center">
   <h1>
     <a href="https://github.com/nguyenvanhuan243">
-      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails || ReactJS), Continuous Learning And Passion With Technology. I usually work with Ruby and Javascript.
+      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails || ReactJS), Continuous Learning And Passion With Technology.
     </a>
+  </h1>
+  <h1>
+    I usually work with Ruby and Javascript (ReactJS, Typescript,...)
   </h1>
 </div>
 
