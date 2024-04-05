@@ -1,10 +1,10 @@
 ![image](https://github.com/nguyenvanhuan243/nguyenvanhuan243/assets/13021427/7f9edc36-fadf-4584-9de3-f2e52deadf2f)
 <div>
-  <h2>
+  <h1>
     <a href="https://github.com/nguyenvanhuan243">
       👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails & ReactJS)
     </a>
-  </h2>
+  </h1>
 
 </div>
 
