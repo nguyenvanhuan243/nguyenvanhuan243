@@ -1,3 +1,4 @@
+![image](https://github.com/nguyenvanhuan243/nguyenvanhuan243/assets/13021427/7f9edc36-fadf-4584-9de3-f2e52deadf2f)
 <div align="center">
   <h2>
     <a href="https://github.com/nguyenvanhuan243">
@@ -6,9 +7,6 @@
   </h2>
 
 </div>
-
-![image](https://github.com/nguyenvanhuan243/nguyenvanhuan243/assets/13021427/7f9edc36-fadf-4584-9de3-f2e52deadf2f)
-
 
 ## 🛠️ Technologies,Tools I am Using:
 
