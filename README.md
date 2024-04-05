@@ -52,6 +52,9 @@
 - ©️ <https://docker.com/> Docker
 - ©️ <https://docs.docker.com/compose/> Docker Compose
 
+## Blockchain & Web 3
+- ©️ <https://bscscan.com> Bscscan
+
 ## Database
 - ♏️ <https://github.com/huan/flash-store> - FlashStore is a high-performance Key-Value Persistent Local Database using ES6 Map's API (Async & Sync), Powered by LevelDB/RocksDB/SQLite and TypeScript.
 
