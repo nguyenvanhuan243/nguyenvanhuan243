@@ -43,10 +43,10 @@
   <img width="1000px" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvanhuan243&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
 
-## RxJS & Event-driven Programming
+## Backend Development
 
-- ♏️ <https://github.com/huan/ducks> - Reducer Bundles Manager for Redux, Implemented the Ducks Modular Proposal
-- ♏️ <https://github.com/huan/rx-queue> - Easy to Use RxJS Queue for Throttle/Debounce/Delay/DelayExecute
+- ♏️ <https://rubyonrails.org/> - Ruby on rails framework
+- ♏️ <https://guides.rubyonrails.org/action_cable_overview.html> - Action Cable Web Socket
 
 
 ## Docker & Networking
