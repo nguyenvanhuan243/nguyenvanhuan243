@@ -64,3 +64,6 @@
 
 ## Library & Tools
 - ♏️ <https://github.com/google/pinject> [![Python Inject](https://img.shields.io/github/stars/google/pinject.svg?style=social&label=)](https://github.com/google/pinject/stargazers/) A pythonic dependency injection library.
+
+## Cloud Service
+- ©️ <https://aws.amazon.com/pm/serv-s3> Cloud Object Storage - Amazon S3
