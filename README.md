@@ -44,40 +44,20 @@
 </div>
 
 ## Backend Development
-
 - ♏️ <https://rubyonrails.org/> - Ruby on rails framework
 - ♏️ <https://guides.rubyonrails.org/action_cable_overview.html> - Action Cable Web Socket
-
 
 ## Docker & Networking
 - ©️ <https://hub.docker.com/> Docker Hub
 - ©️ <https://docker.com/> Docker
 - ©️ <https://docs.docker.com/compose/> Docker Compose
 
-## Remote Procedure Call (RPC)
-
-- ♏️ <https://github.com/wechaty/grpc> - gRPC Service & Protocol Buffers for Wechaty Puppet
-- ©️ <https://github.com/grpc/grpc-node> [![gRPC JS](https://img.shields.io/github/stars/grpc/grpc-node.svg?style=social&label=)](https://github.com/grpc/grpc-node/stargazers/) gRPC for Node.js ([PR](https://github.com/grpc/grpc-node/pulls?q=is%3Apr+author%3Ahuan))
-
-
 ## Database
-
 - ♏️ <https://github.com/huan/flash-store> - FlashStore is a high-performance Key-Value Persistent Local Database using ES6 Map's API (Async & Sync), Powered by LevelDB/RocksDB/SQLite and TypeScript.
 
-
-## Frida & Assembly
-
-- ♏️ <https://github.com/huan/sidecar> - Easily hook/call binary functions using ES6 class with TypeScript annotation (Powered by Frida)
-- ♏️ <https://github.com/huan/ffi-adapter> - Foreign Function Interface Adapter Powered by Decorator & TypeScript
-- ©️ <https://github.com/frida/cryptoshark> [![Crypto Shark](https://img.shields.io/github/stars/frida/cryptoshark.svg?style=social&label=)](https://github.com/frida/cryptoshark/stargazers/) Self-optimizing cross-platform code tracer based on dynamic recompilation ([PR](https://github.com/frida/cryptoshark/pulls?q=is%3Apr+author%3Ahuan))
-
 ## TypeScript
-
 - ♏️ <https://github.com/huan/tstest> - Helps you write better TypeScript programs
 - ©️ <https://github.com/DefinitelyTyped/DefinitelyTyped> [![DefinitelyTyped](https://img.shields.io/github/stars/DefinitelyTyped/DefinitelyTyped.svg?style=social&label=)](https://github.com/DefinitelyTyped/DefinitelyTyped/stargazers/) The repository for high quality TypeScript type definitions. ([PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Ahuan))
 
-
-
 ## Library & Tools
-
 - ♏️ <https://github.com/google/pinject> [![Python Inject](https://img.shields.io/github/stars/google/pinject.svg?style=social&label=)](https://github.com/google/pinject/stargazers/) A pythonic dependency injection library.
