@@ -45,30 +45,6 @@
   <img width="1000px" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvanhuan243&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
 
-
-<div>
-  <h3><a target="_blank" href="https://github.com/nguyenvanhuan243/awesom-ruby">AWESOME RUBY - ALL IN ONE</a></h3>
-</div>
-
-https://awesome-ruby.com/
-
-<div align="center">
-  <p>
-    <a href="https://github.com/nguyenvanhuan243/awesome-ruby"><img src="https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg"></a>
-  </p>
-</div>
-
-## Chatbot Ecosystem
-
-- ♏️ <https://github.com/wechaty/wechaty> [![Wechaty](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/) Conversational RPA SDK for Chatbot Makers
-- ♏️ <https://github.com/wechaty/getting-started> - A Starter Project Template for Wechaty works out-of-the-box
-- ♏️ <https://github.com/wechaty/ha> - High Available (HA) Wechaty is a Load Balance for providing High Availability for Wechaty Chatbot by spreading requests across multiple WeChat individual accounts.
-- ♏️ <https://github.com/wechaty/vorpal> - CLI for Chatbot - Extensible Commands for ChatOps, Powered by Vorpal.
-- ♏️ <https://github.com/huan/file-box> - Pack a File into Box for easy move/transfer between servers no matter where it is. (local, remote url, or cloud storage)
-- ♏️ <https://github.com/wechaty/matrix-appservice> - Wechaty [Matrix] Application Services Bridge
-- ©️ <https://github.com/microsoft/botframework-sdk> [![BotFramework](https://img.shields.io/github/stars/microsoft/botframework-sdk.svg?style=social&label=)](https://github.com/microsoft/botframework-sdk/stargazers/) Bot Framework provides the most comprehensive experience for building conversation applications. ([PR](https://github.com/microsoft/botframework-sdk/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/matrix-org/matrix-js-sdk> [![Matrix JS SDK](https://img.shields.io/github/stars/matrix-org/matrix-js-sdk.svg?style=social&label=)](https://github.com/matrix-org/matrix-js-sdk/stargazers/) Matrix Client-Server SDK for JavaScript ([PR](https://github.com/matrix-org/matrix-js-sdk/pulls?q=is%3Apr+author%3Ahuan))
-
 ## RxJS & Event-driven Programming
 
 - ♏️ <https://github.com/huan/ducks> - Reducer Bundles Manager for Redux, Implemented the Ducks Modular Proposal
