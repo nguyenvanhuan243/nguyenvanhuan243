@@ -53,6 +53,7 @@
 
 ## Third Party & Payment Gateway
 - ♏️ <https://zota.com/payment-methods> - Zotapay
+- ♏️ <https://www.bitgo.com> - Bitgo Wallet Service
 
 ## Database
 - ♏️ <https://www.postgresql.org> - Postgresql
@@ -68,8 +69,12 @@
 ## Cloud Service
 - ©️ <https://aws.amazon.com/pm/serv-s3> Cloud Object Storage - Amazon S3
 - ©️ <https://render.com> Render.com cloud service
+- ©️ <https://www.rancher.com> Rancher
 
 ## Trading & financial knowledge
 - ©️ <https://www.binance.com/> Trading
 - ©️ <https://tradingview.com> Tradingview
+
+## Task Management
+- ©️ <https://github.com/> Github project
 
