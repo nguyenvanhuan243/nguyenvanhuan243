@@ -4,9 +4,7 @@
       👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails || ReactJS), Continuous Learning And Passion With Technology.
     </a>
   </h1>
-  <h2>
-    I usually work with Ruby and Javascript (ReactJS, Typescript,...)
-  </h2>
+
 </div>
 
 [![Fullstack](https://www.ekascloud.com/public/uploads/img/news/img8d93b8870f1b00dea9c4dfa13593c586.png)](https://microservices.io)
@@ -49,35 +47,21 @@
 
 - ♏️ <https://github.com/huan/ducks> - Reducer Bundles Manager for Redux, Implemented the Ducks Modular Proposal
 - ♏️ <https://github.com/huan/rx-queue> - Easy to Use RxJS Queue for Throttle/Debounce/Delay/DelayExecute
-- ©️ <https://github.com/ReactiveX/rxjs> [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs.svg?style=social&label=)](https://github.com/ReactiveX/rxjs/stargazers/) A reactive programming library for JavaScript ([PR](https://github.com/ReactiveX/rxjs/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/statelyai/xstate> [![XState](https://img.shields.io/github/stars/statelyai/xstate.svg?style=social&label=)](https://github.com/statelyai/xstate/stargazers/) State machines and statecharts for the modern web. ([PR](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Ahuan))
+
 
 ## Docker & Networking
-
-- ♏️ <https://github.com/huan/docker-simple-mail-forwarder> [![Simple Mail Forwarder](https://img.shields.io/github/stars/huan/docker-simple-mail-forwarder.svg?style=social&label=)](https://github.com/huan/docker-simple-mail-forwarder/stargazers/) Simplest and Smallest Email Forward Service based on Docker.
-- ♏️ <https://github.com/huan/docker-wechat> [![DoChat](https://img.shields.io/github/stars/huan/docker-wechat.svg?style=social&label=)](https://github.com/huan/docker-wechat/stargazers/) DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-- ♏️ <https://github.com/Chatie/io> - Chatie Cloud Input/Output Service
 - ©️ <https://github.com/websockets/ws> [![WS](https://img.shields.io/github/stars/websockets/ws.svg?style=social&label=)](https://github.com/websockets/ws/stargazers/) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js ([PR](https://github.com/websockets/ws/pulls?q=is%3Apr+author%3Ahuan))
 
 ## Remote Procedure Call (RPC)
 
 - ♏️ <https://github.com/wechaty/grpc> - gRPC Service & Protocol Buffers for Wechaty Puppet
 - ©️ <https://github.com/grpc/grpc-node> [![gRPC JS](https://img.shields.io/github/stars/grpc/grpc-node.svg?style=social&label=)](https://github.com/grpc/grpc-node/stargazers/) gRPC for Node.js ([PR](https://github.com/grpc/grpc-node/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/improbable-eng/grpc-web> [![gRPC Web](https://img.shields.io/github/stars/improbable-eng/grpc-web.svg?style=social&label=)](https://github.com/improbable-eng/grpc-web/stargazers/) gRPC Web implementation for Golang and TypeScript ([PR](https://github.com/improbable-eng/grpc-web/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/konsumer/grpcnode> - Simple GRPC server & client ([PR](https://github.com/konsumer/grpcnode/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/konsumer/grpc-dynamic-gateway> - Like grpc-gateway, but written in node and dynamic. ([PR](https://github.com/konsumer/grpc-dynamic-gateway/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/JsCommunity/json-rpc-peer> - JSON-RPC 2 transport-agnostic library ([PR](https://github.com/JsCommunity/json-rpc-peer/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/JsCommunity/json-rpc-protocol> - JSON-RPC 2 protocol messages parsing and formatting ([PR](https://github.com/JsCommunity/json-rpc-protocol/pulls?q=is%3Apr+author%3Ahuan))
+
 
 ## Database
 
 - ♏️ <https://github.com/huan/flash-store> - FlashStore is a high-performance Key-Value Persistent Local Database using ES6 Map's API (Async & Sync), Powered by LevelDB/RocksDB/SQLite and TypeScript.
-- ©️ <https://github.com/apollographql/subscriptions-transport-ws> [![GraphQL](https://img.shields.io/github/stars/apollographql/subscriptions-transport-ws.svg?style=social&label=)](https://github.com/apollographql/subscriptions-transport-ws/stargazers/) A WebSocket client + server for GraphQL subscriptions ([PR](https://github.com/apollographql/subscriptions-transport-ws/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/howtographql/howtographql> [![How to GraphQL](https://img.shields.io/github/stars/howtographql/howtographql.svg?style=social&label=)](https://github.com/howtographql/howtographql/stargazers/) The Fullstack Tutorial for GraphQL ([PR](https://github.com/howtographql/howtographql/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/Level/levelup> [![LeveUP](https://img.shields.io/github/stars/Level/levelup.svg?style=social&label=)](https://github.com/Level/levelup/stargazers/) A wrapper for abstract-leveldown compliant stores, for Node.js and browsers. ([PR](https://github.com/Level/levelup/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/Level/leveldown> - Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store. ([PR](https://github.com/Level/leveldown/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/Level/encoding-down> - An abstract-leveldown implementation that wraps another store to encode keys and values. ([PR](https://github.com/Level/encoding-down/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/only-cliches/snap-db> - Simple & Robust LSM Powered Javascript key-value store ([PR](https://github.com/only-cliches/snap-db/pulls?q=is%3Apr+author%3Ahuan))
+
 
 ## Frida & Assembly
 
@@ -89,25 +73,9 @@
 
 - ♏️ <https://github.com/huan/tstest> - Helps you write better TypeScript programs
 - ©️ <https://github.com/DefinitelyTyped/DefinitelyTyped> [![DefinitelyTyped](https://img.shields.io/github/stars/DefinitelyTyped/DefinitelyTyped.svg?style=social&label=)](https://github.com/DefinitelyTyped/DefinitelyTyped/stargazers/) The repository for high quality TypeScript type definitions. ([PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/inversify/InversifyJS> [![InversifyJS](https://img.shields.io/github/stars/inversify/InversifyJS.svg?style=social&label=)](https://github.com/inversify/InversifyJS/stargazers/) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript. ([PR](https://github.com/inversify/InversifyJS/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/connor4312/cockatiel> [![Cockatiel](https://img.shields.io/github/stars/connor4312/cockatiel.svg?style=social&label=)](https://github.com/connor4312/cockatiel/stargazers/) A resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Polly. ([PR](https://github.com/connor4312/cockatiel/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/andywer/typed-emitter> Type-safe event emitter interface for TypeScript ([PR](https://github.com/andywer/typed-emitter/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/sinonjs/sinon-test> - Wrap your tests in a sandbox with auto-cleanup ([PR](https://github.com/sinonjs/sinon-test/pulls?q=is%3Apr+author%3Ahuan))
+
 
 
 ## Library & Tools
 
 - ♏️ <https://github.com/google/pinject> [![Python Inject](https://img.shields.io/github/stars/google/pinject.svg?style=social&label=)](https://github.com/google/pinject/stargazers/) A pythonic dependency injection library.
-- ♏️ <https://github.com/simonepri/pidtree/> 🚸 Cross platform children list of a PID.
-- ©️ <https://github.com/yaronn/blessed-contrib> [![Blessed Contrib](https://img.shields.io/github/stars/yaronn/blessed-contrib.svg?style=social&label=)](https://github.com/yaronn/blessed-contrib/stargazers/) Build terminal dashboards using ascii/ansi art and javascript ([PR](https://github.com/yaronn/blessed-contrib/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/toji/gl-matrix> [![GL Matrix](https://img.shields.io/github/stars/toji/gl-matrix.svg?style=social&label=)](https://github.com/toji/gl-matrix/stargazers/) Javascript Matrix and Vector library for High Performance WebGL apps ([PR](https://github.com/toji/gl-matrix/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/jtlapp/node-cleanup> - installs custom cleanup handlers that run on exiting node ([PR](https://github.com/jtlapp/node-cleanup/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/sanack/node-jq> Node.js wrapper for jq ([PR](https://github.com/sanack/node-jq/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/indexzero/ps-tree> - Sometimes, you cannot kill child processes as expected; this is a feature of UNIX. ([PR](https://github.com/indexzero/ps-tree/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/wwalker/ssh-find-agent> - Tool to find already running ssh-agent compatible agents ([PR](https://github.com/wwalker/ssh-find-agent/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/zgq354/weibo-rss> - cake 把某人最近的微博转换为 RSS 格式输出 ([PR](https://github.com/zgq354/weibo-rss/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/Submersible/node-python-bridge> - Node.js to Python bridge sparklessnakerocketsparkles ([PR](https://github.com/Submersible/node-python-bridge/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/freshworks/fresh-samples> - Samples of code created by freshdesk ([PR](https://github.com/freshworks/fresh-samples/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/hongaar/bandersnatch> - curly_loop Simple Node.js CLI / REPL framework written in TypeScript ([PR](https://github.com/hongaar/bandersnatch/pulls?q=is%3Apr+author%3Ahuan))
-
-
