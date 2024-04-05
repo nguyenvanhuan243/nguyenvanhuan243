@@ -50,7 +50,9 @@
 
 
 ## Docker & Networking
-- ©️ <https://github.com/websockets/ws> [![WS](https://img.shields.io/github/stars/websockets/ws.svg?style=social&label=)](https://github.com/websockets/ws/stargazers/) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js ([PR](https://github.com/websockets/ws/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://hub.docker.com/> Docker Hub
+- ©️ <https://docker.com/> Docker
+- ©️ <https://docs.docker.com/compose/> Docker Compose
 
 ## Remote Procedure Call (RPC)
 
