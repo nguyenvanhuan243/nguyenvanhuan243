@@ -2,7 +2,7 @@
 <div>
   <h1>
     <a href="https://github.com/nguyenvanhuan243">
-      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails & ReactJS)
+      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails & ReactJS). Main focusing on Fintech!
     </a>
   </h1>
 
