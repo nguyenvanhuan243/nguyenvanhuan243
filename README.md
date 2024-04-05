@@ -53,14 +53,16 @@
 - ©️ <https://bscscan.com> Bscscan
 
 ## Database
-- ♏️ <https://github.com/huan/flash-store> - FlashStore is a high-performance Key-Value Persistent Local Database using ES6 Map's API (Async & Sync), Powered by LevelDB/RocksDB/SQLite and TypeScript.
+- ♏️ <https://www.postgresql.org> - Postgresql
+- ♏️ <https://www.mysql.com> - Mysql
 
-## TypeScript
-- ♏️ <https://github.com/huan/tstest> - Helps you write better TypeScript programs
-- ©️ <https://github.com/DefinitelyTyped/DefinitelyTyped> [![DefinitelyTyped](https://img.shields.io/github/stars/DefinitelyTyped/DefinitelyTyped.svg?style=social&label=)](https://github.com/DefinitelyTyped/DefinitelyTyped/stargazers/) The repository for high quality TypeScript type definitions. ([PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Ahuan))
+## Frontend
+- ♏️ <https://react.dev> - ReactJS
+- ♏️ <https://redux.js.org> - Redux
 
 ## Library & Tools
-- ♏️ <https://github.com/google/pinject> [![Python Inject](https://img.shields.io/github/stars/google/pinject.svg?style=social&label=)](https://github.com/google/pinject/stargazers/) A pythonic dependency injection library.
+- ♏️ <https://github.com> Github
 
 ## Cloud Service
 - ©️ <https://aws.amazon.com/pm/serv-s3> Cloud Object Storage - Amazon S3
+- ©️ <https://render.com> Render.com cloud service
