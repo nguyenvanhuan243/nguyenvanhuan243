@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>
+  <h2>
     <a href="https://github.com/nguyenvanhuan243">
       👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails & ReactJS)
     </a>
-  </h1>
+  </h2>
 
 </div>
 
