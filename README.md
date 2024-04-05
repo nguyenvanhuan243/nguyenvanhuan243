@@ -52,6 +52,9 @@
 ## Blockchain & Web 3
 - ©️ <https://bscscan.com> Bscscan
 
+## Third Party & Payment Gateway
+- ♏️ <https://zota.com/payment-methods> - Zotapay
+
 ## Database
 - ♏️ <https://www.postgresql.org> - Postgresql
 - ♏️ <https://www.mysql.com> - Mysql
