@@ -54,6 +54,7 @@
 ## Third Party & Payment Gateway
 - ♏️ <https://zota.com/payment-methods> - Zotapay
 - ♏️ <https://www.bitgo.com> - Bitgo Wallet Service
+- ♏️ <https://www.meilisearch.com> - Meilisearch Engine
 
 ## Database
 - ♏️ <https://www.postgresql.org> - Postgresql
