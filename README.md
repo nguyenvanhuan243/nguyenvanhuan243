@@ -66,11 +66,15 @@
 
 ## Library & Tools
 - ♏️ <https://github.com> Github
+- ♏️ <https://app.circleci.com/> Circleci
 
-## Cloud Service
+## Cloud Service and Domain Service
 - ©️ <https://aws.amazon.com/pm/serv-s3> Cloud Object Storage - Amazon S3
 - ©️ <https://render.com> Render.com cloud service
 - ©️ <https://www.rancher.com> Rancher
+- ©️ <https://cloud.digitalocean.com/> Cloud Digitalocean
+- ©️ <https://www.godaddy.com> Godaddy
+- ©️ <https://www.namecheap.com> Namecheap
 
 ## Trading & financial knowledge
 - ©️ <https://www.binance.com/> Trading
