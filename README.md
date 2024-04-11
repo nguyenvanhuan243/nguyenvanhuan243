@@ -75,6 +75,8 @@
 - ©️ <https://cloud.digitalocean.com/> Cloud Digitalocean
 - ©️ <https://www.godaddy.com> Godaddy
 - ©️ <https://www.namecheap.com> Namecheap
+- ©️ <https://www.netlify.com> Netlify
+- ©️ <https://vercel.com> Vercel
 
 ## Trading & financial knowledge
 - ©️ <https://www.binance.com/> Trading
