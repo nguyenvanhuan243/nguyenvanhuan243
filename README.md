@@ -84,4 +84,6 @@
 
 ## Task Management
 - ©️ <https://github.com/> Github project
+- ©️ <https://clickup.com> Clickup project
+- ©️ <https://www.atlassian.com> Jira
 
