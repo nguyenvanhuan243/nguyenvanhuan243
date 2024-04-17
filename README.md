@@ -8,7 +8,7 @@
 
 </div>
 
-## 🛠️ Technologies,Tools I am Using:
+## 🛠️ Technologies And Tools
 
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
