@@ -50,6 +50,8 @@
 
 ## Blockchain & Web 3
 - ©️ <https://bscscan.com> Bscscan
+- ©️ <https://remix.ethereum.org> Smart Contract
+- ©️ <https://web3js.readthedocs.io> Smart Contract
 
 ## Third Party & Payment Gateway
 - ♏️ <https://zota.com/payment-methods> - Zotapay
@@ -67,6 +69,7 @@
 ## Library & Tools
 - ♏️ <https://github.com> Github
 - ♏️ <https://app.circleci.com/> Circleci
+- ♏️ <https://docs.github.com/en/actions> Github Action
 
 ## Cloud Service and Domain Service
 - ©️ <https://aws.amazon.com/pm/serv-s3> Cloud Object Storage - Amazon S3
