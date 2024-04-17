@@ -57,6 +57,7 @@
 - ♏️ <https://zota.com/payment-methods> - Zotapay
 - ♏️ <https://www.bitgo.com> - Bitgo Wallet Service
 - ♏️ <https://www.meilisearch.com> - Meilisearch Engine
+- ♏️ <https://lense.io> - Lense Kafka
 
 ## Database
 - ♏️ <https://www.postgresql.org> - Postgresql
