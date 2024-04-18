@@ -100,5 +100,5 @@
 - ⚡ Awesome Ruby: https://awesome-ruby.com
 - ⚡ Rails SQL Injection: https://rails-sqli.org https://rorsecurity.info
 - ⚡ Conventional Commits: https://conventionalcommits.org
-- ⚡ https://solidity-by-example.org Solidity Example
+- ⚡ Solidity Example: https://solidity-by-example.org
 
