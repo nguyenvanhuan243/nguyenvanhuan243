@@ -92,13 +92,13 @@
 - ©️ <https://clickup.com> Clickup project
 - ©️ <https://www.atlassian.com> Jira
 
-🛠 Somethings make us better
-- ⚡ Asynapi: studio.asyncapi.com
-- ⚡ Microservices: microservices.io
-- ⚡ Better Specs: betterspecs.org
-- ⚡ Ruby Style: rails.rubystyle.guide
-- ⚡ Awesome Ruby: awesome-ruby.com
-- ⚡ Rails SQL Injection: rails-sqli.org rorsecurity.info
-- ⚡ Conventional Commits: conventionalcommits.org
+## Somethings make us better
+- ⚡ Asynapi: https://studio.asyncapi.com
+- ⚡ Microservices: https://microservices.io
+- ⚡ Better Specs: https://betterspecs.org
+- ⚡ Ruby Style: https://rails.rubystyle.guide
+- ⚡ Awesome Ruby: https://awesome-ruby.com
+- ⚡ Rails SQL Injection: https://rails-sqli.org https://rorsecurity.info
+- ⚡ Conventional Commits: https://conventionalcommits.org
 - ⚡ https://solidity-by-example.org Solidity Example
 
