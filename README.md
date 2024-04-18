@@ -81,6 +81,7 @@
 - ©️ <https://www.namecheap.com> Namecheap
 - ©️ <https://www.netlify.com> Netlify
 - ©️ <https://vercel.com> Vercel
+- ©️ <https://confluent.cloud> Confluent Cloud
 
 ## Trading & financial knowledge
 - ©️ <https://www.binance.com/> Trading
