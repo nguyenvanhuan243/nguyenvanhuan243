@@ -92,3 +92,13 @@
 - ©️ <https://clickup.com> Clickup project
 - ©️ <https://www.atlassian.com> Jira
 
+🛠 Somethings make us better
+- ⚡ Asynapi: studio.asyncapi.com
+- ⚡ Microservices: microservices.io
+- ⚡ Better Specs: betterspecs.org
+- ⚡ Ruby Style: rails.rubystyle.guide
+- ⚡ Awesome Ruby: awesome-ruby.com
+- ⚡ Rails SQL Injection: rails-sqli.org rorsecurity.info
+- ⚡ Conventional Commits: conventionalcommits.org
+- ⚡ https://solidity-by-example.org Solidity Example
+
