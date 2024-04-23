@@ -101,4 +101,5 @@
 - ⚡ Rails SQL Injection: https://rails-sqli.org https://rorsecurity.info
 - ⚡ Conventional Commits: https://conventionalcommits.org
 - ⚡ Solidity Example: https://solidity-by-example.org
+- ⚡ Cloud academy: [https://solidity-by-example.org](https://www.aquasec.com/cloud-native-academy/)
 
