@@ -103,4 +103,5 @@
 - ⚡ Conventional Commits: https://conventionalcommits.org
 - ⚡ Solidity Example: https://solidity-by-example.org
 - ⚡ Cloud academy: [https://www.aquasec.com/cloud-native-academy](https://www.aquasec.com/cloud-native-academy/)
+- ⚡ Hacking academy: [https://book.hacktricks.xyz](https://book.hacktricks.xyz)
 
