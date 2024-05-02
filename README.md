@@ -114,4 +114,5 @@
 - ⚡ Cloud academy: [https://www.aquasec.com/cloud-native-academy](https://www.aquasec.com/cloud-native-academy/)
 - ⚡ Hacking academy: [https://book.hacktricks.xyz](https://book.hacktricks.xyz)
 - ⚡ Cloudflare: [https://dash.cloudflare.com](https://dash.cloudflare.com)
+- ⚡ Rails Book: [https://infinum.com/handbook/rails](https://infinum.com/handbook/rails) 
 
