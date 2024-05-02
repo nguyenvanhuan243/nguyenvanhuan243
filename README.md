@@ -5,7 +5,11 @@
       👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails & ReactJS, VueJS, NodeJS, NextJS).
     </a>
   </h1>
-
+  <h1>
+    <a href="https://drive.google.com/file/d/1uIAodbG5bKfC3Cs63wofAsjSeiBgkKaD/view" target="_blank">
+      👋 Please visit my CV
+    </a>
+  </h1>
 </div>
 
 ## 🛠️ Technologies And Tools
