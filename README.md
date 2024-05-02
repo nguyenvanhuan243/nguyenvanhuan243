@@ -7,12 +7,12 @@
   </h1>
   <h1>
     <a href="https://drive.google.com/file/d/1uIAodbG5bKfC3Cs63wofAsjSeiBgkKaD/view" target="_blank">
-      ✍️🕵️ Please visit my CV
+      🕵️ Please visit my CV
     </a>
   </h1>
    <h1>
     <a href="https://www.facebook.com/groups/devjobcommunity" target="_blank">
-      ✍️🕵️ Admin at Dev Job Community
+      🕵️ Admin at Dev Job Community
     </a>
   </h1>
 </div>
