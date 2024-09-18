@@ -102,6 +102,9 @@
 - ©️ <https://clickup.com> Clickup project
 - ©️ <https://www.atlassian.com> Jira
 
+## Tesing
+- ©️ <https://www.cypress.io> Cypress
+
 ## Somethings make us better
 - ⚡ Asynapi: https://studio.asyncapi.com
 - ⚡ Microservices: https://microservices.io
