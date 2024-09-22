@@ -98,7 +98,6 @@
 - ©️ <https://www.netlify.com> Netlify
 - ©️ <https://vercel.com> Vercel
 - ©️ <https://confluent.cloud> Confluent Cloud
-- ©️ <[https://confluent.cloud](https://console.cloud.google.com/cloud-build/builds)> Cloud Build
 
 ## Trading & financial knowledge
 - ©️ <https://www.binance.com/> Trading
