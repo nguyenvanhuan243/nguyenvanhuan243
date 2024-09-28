@@ -110,6 +110,7 @@
 
 ## Tesing
 - ©️ <https://www.cypress.io> Cypress
+- ©️ <[https://www.jestjs.io](https://jestjs.io/)> Jestjs
 
 ## Somethings make us better
 - ⚡ Asynapi: https://studio.asyncapi.com
