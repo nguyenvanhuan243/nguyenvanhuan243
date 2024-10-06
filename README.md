@@ -111,6 +111,12 @@
 ## Tesing
 - ©️ <https://www.cypress.io> Cypress
 - ©️ <[https://www.jestjs.io](https://jestjs.io/)> Jestjs
+- 
+
+## Some useful AI
+- https://www.cursor.com/
+- https://claude.ai/new
+- https://openai.com/chatgpt/
 
 ## Somethings make us better
 - ⚡ Asynapi: https://studio.asyncapi.com
