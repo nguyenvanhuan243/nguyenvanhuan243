@@ -55,6 +55,7 @@
 
 ## Backend Development
 - ♏️ <https://rubyonrails.org/> - Ruby on rails framework
+- ♏️ <https://nodejs.org/> - Nodejs Run JavaScript Everywhere
 - ♏️ <https://guides.rubyonrails.org/action_cable_overview.html> - Action Cable Web Socket
 
 ## Docker & Networking
