@@ -118,6 +118,7 @@
 - https://www.cursor.com/
 - https://claude.ai/new
 - https://openai.com/chatgpt/
+- https://www.blackbox.ai/
 
 ## Somethings make us better
 - ⚡ Asynapi: https://studio.asyncapi.com
