@@ -2,7 +2,7 @@
 <div>
   <h1>
     <a href="https://t.me/huancapital" target="_blank">
-      👋 Hi, I’m @HuanCapital, Senior Fullstack Developer (Ruby on rails & ReactJS, VueJS, NodeJS, NextJS).
+      👋 Hi, I’m @HuanCapital, Senior Blockchain Fullstack Developer (Ruby on rails & ReactJS, VueJS, NodeJS, NextJS).
     </a>
   </h1>
    <h1>
