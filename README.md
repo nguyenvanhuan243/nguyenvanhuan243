@@ -39,10 +39,6 @@
 
 ## 📊 My GitHub Data:
 
-<div align="center">
-  <img width="1000px" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvanhuan243&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</div>
-
 ## Backend Development
 - ♏️ <https://rubyonrails.org/> - Ruby on rails framework
 - ♏️ <https://nodejs.org/> - Nodejs Run JavaScript Everywhere
