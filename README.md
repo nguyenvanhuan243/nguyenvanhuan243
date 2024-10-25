@@ -1,4 +1,4 @@
-![image](https://github.com/nguyenvanhuan243/nguyenvanhuan243/assets/13021427/7f9edc36-fadf-4584-9de3-f2e52deadf2f)
+![image](https://github.com/user-attachments/assets/081bb67d-01b2-48aa-ac3b-c1d4a0856261)
 <div>
   <h1>
     <a href="https://t.me/huancapital" target="_blank">
