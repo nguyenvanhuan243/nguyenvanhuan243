@@ -1,4 +1,4 @@
-![image](![image](https://github.com/user-attachments/assets/43700d74-e094-4b50-85ac-aaa3ecc932a9)
+![image](![image](https://github.com/user-attachments/assets/43700d74-e094-4b50-85ac-aaa3ecc932a9))
 <div>
   <h1>
     <a href="https://t.me/huancapital" target="_blank">
