@@ -6,16 +6,6 @@
     </a>
   </h1>
    <h1>
-    <a href="https://www.facebook.com/groups/devjobcommunity" target="_blank">
-      🕵️ Admin at Dev Job Community
-    </a>
-  </h1>
-   <h1>
-    <a href="https://microservice.services/" target="_blank">
-      🕵️ Owner At Microservice Services
-    </a>
-  </h1>
-   <h1>
     <a href="https://t.me/bscexchange_finance" target="_blank">
       🕵️ Blockchain Community
     </a>
