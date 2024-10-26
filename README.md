@@ -56,6 +56,7 @@
 - ©️ <https://bscscan.com> Bscscan
 - ©️ <https://remix.ethereum.org> Smart Contract
 - ©️ <https://web3js.readthedocs.io> Smart Contract
+- ©️ <https://thirdweb.com> Thirdweb
 
 ## Third Party & Payment Gateway
 - ♏️ <https://zota.com/payment-methods> - Zotapay
